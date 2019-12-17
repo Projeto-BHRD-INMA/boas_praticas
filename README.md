@@ -1,6 +1,6 @@
-# Apenas um repositório para acordar boas práticas
+# Boas práticas
 
-Núcleo de Computação Científica e Geoprocessamento (NCCG) - Instituto de Pesquisas Jardim Botânico do Rio de Janeiro
+Este é um repositório de um arquivo só apenas para acordar sobre nossas boas práticas. Nossas do Núcleo de Computação Científica e Geoprocessamento (NCCG) - Instituto de Pesquisas Jardim Botânico do Rio de Janeiro.
 
 Fundamentados em ciência aberta, somos um laboratório que usa controle de versão em git de todo seu fluxo de trabalho, independentemente da linguagem de programação utilizada. O material de desenvolvimento do pacote e ferramentas correlatas está [aqui](https://github.com/Model-R) e o material do Projeto Conservação e Restauração da Bacia Hidrográfica do Rio Doce (INMA/PCI), [aqui](https://github.com/Projeto-BHRD-INMA). 
 
